@@ -1,0 +1,897 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791717793808,7062,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,338,0,29
+1791717793808,364,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,338,0,29
+1791717794174,6696,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,6648,0,559
+1791717793914,6960,Homepage,200,OK,Thread Group 1-2,text,true,,215158,230,10,10,https://greenitco.com/,750,0,226
+1791717793914,750,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,750,0,226
+1791717794665,6209,Homepage-1,200,OK,Thread Group 1-2,text,true,,214925,115,10,10,https://greenitco.com/,6157,0,69
+1791717794312,6806,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,358,0,15
+1791717794312,358,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,358,0,15
+1791717794670,6448,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,6256,0,64
+1791717794118,8553,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,546,0,23
+1791717794118,546,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,546,0,23
+1791717794666,8005,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,6456,0,68
+1791717794912,7763,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1803,0,207
+1791717794912,1803,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1803,0,207
+1791717796717,5958,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,5342,0,217
+1791717795312,7366,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1405,0,80
+1791717795312,1405,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1405,0,80
+1791717796718,5960,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,5323,0,224
+1791717794517,8166,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,875,0,147
+1791717794517,875,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,875,0,147
+1791717795394,7289,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6137,0,141
+1791717795515,7169,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1507,0,73
+1791717795515,1507,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1507,0,73
+1791717797024,5660,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,5025,0,23
+1791717795112,7578,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1912,0,207
+1791717795112,1912,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1912,0,207
+1791717797026,5664,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,5046,0,24
+1791717794721,8680,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1583,0,13
+1791717794721,1583,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1583,0,13
+1791717796307,7094,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,5531,0,24
+1791717800872,4662,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,1166,0,5
+1791717800872,1166,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,1166,0,5
+1791717802043,3491,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,3476,0,0
+1791717800875,4674,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,1166,0,4
+1791717800875,1166,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,1166,0,4
+1791717802042,3507,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,3476,0,0
+1791717801121,5863,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,2284,0,1437
+1791717801121,2284,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,2284,0,1437
+1791717803405,3579,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,3565,0,0
+1791717802672,5050,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1143,0,12
+1791717802672,1143,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1143,0,12
+1791717803817,3905,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,3852,0,0
+1791717802690,5069,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1094,0,5
+1791717802690,1094,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1094,0,5
+1791717803784,3975,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,3943,0,0
+1791717802680,5106,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1181,0,6
+1791717802680,1181,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1181,0,6
+1791717803862,3924,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,3856,0,0
+1791717802685,5113,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1115,0,6
+1791717802685,1115,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1115,0,6
+1791717803801,3997,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,3914,0,0
+1791717802676,5124,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1103,0,9
+1791717802676,1103,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1103,0,9
+1791717803779,4021,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,3982,0,0
+1791717802683,5294,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1165,0,6
+1791717802683,1165,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1165,0,6
+1791717803848,4129,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,3922,0,0
+1791717803402,4897,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1192,0,5
+1791717803402,1192,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1192,0,5
+1791717804595,3704,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,3689,0,0
+1791717805535,6247,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1112,0,0
+1791717805535,1112,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1112,0,0
+1791717806647,5135,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,4926,0,0
+1791717805550,6244,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1095,0,0
+1791717805550,1095,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1095,0,0
+1791717806646,5148,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,4927,0,0
+1791717806985,5415,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1513,0,0
+1791717806985,1513,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1513,0,0
+1791717808498,3902,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3883,0,0
+1791717807760,5402,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,1524,0,0
+1791717807760,1524,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,1524,0,0
+1791717809286,3876,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3821,0,0
+1791717807787,5392,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,1435,0,0
+1791717807787,1435,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,1435,0,0
+1791717809223,3956,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,3885,0,0
+1791717807723,5459,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,1496,0,0
+1791717807723,1496,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,1496,0,0
+1791717809221,3961,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,3900,0,0
+1791717807801,5382,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,1422,0,0
+1791717807801,1422,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,1422,0,0
+1791717809225,3958,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3895,0,0
+1791717807799,5385,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1405,0,0
+1791717807799,1405,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1405,0,0
+1791717809205,3979,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,3919,0,0
+1791717808300,4885,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1433,0,0
+1791717808300,1433,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1433,0,0
+1791717809734,3451,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3390,0,0
+1791717807979,5232,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,1391,0,0
+1791717807979,1391,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,1391,0,0
+1791717809372,3839,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3747,0,0
+1791717812402,5038,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,724,0,0
+1791717812402,724,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,724,0,0
+1791717813126,4314,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,3974,0,65
+1791717811789,5655,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1330,0,0
+1791717811789,1330,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1330,0,0
+1791717813120,4324,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,3986,0,73
+1791717811796,5651,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1318,0,0
+1791717811796,1318,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1318,0,0
+1791717813114,4333,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,3990,0,79
+1791717817440,3564,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,572,0,0
+1791717817440,572,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,572,0,0
+1791717818012,2992,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,2969,0,0
+1791717817444,3560,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,568,0,0
+1791717817444,568,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,568,0,0
+1791717818012,2992,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,2970,0,0
+1791717813163,8293,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1375,0,0
+1791717813163,1375,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1375,0,0
+1791717813182,8274,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1353,0,0
+1791717813182,1353,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1353,0,0
+1791717814535,6921,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,6688,0,253
+1791717814538,6918,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,6685,0,253
+1791717813184,8379,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1348,0,0
+1791717813212,8352,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1325,0,0
+1791717813212,1325,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1325,0,0
+1791717814536,7028,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6772,0,258
+1791717813184,1348,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1348,0,0
+1791717814532,7031,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,6776,0,261
+1791717813186,8404,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1349,0,0
+1791717813186,1349,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1349,0,0
+1791717814534,7056,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,6893,0,254
+1791717813183,8408,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1354,0,0
+1791717813183,1354,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1354,0,0
+1791717814536,7055,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,6892,0,256
+1791717817446,4154,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,876,0,0
+1791717817446,876,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,876,0,0
+1791717818322,3278,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,3107,0,0
+1791717813179,9653,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1353,0,0
+1791717813179,1353,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1353,0,0
+1791717814531,8301,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,7783,0,261
+1791717821006,4324,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1004,0,0
+1791717821006,1004,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1004,0,0
+1791717822010,3320,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3302,0,0
+1791717821005,5152,ProductsPage,200,OK,Thread Group 1-4,text,true,,116729,247,10,10,http://greenitco.com/products,1405,0,0
+1791717821005,1405,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1405,0,0
+1791717822411,3746,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116489,123,10,10,http://greenitco.com/products,3733,0,0
+1791717821458,5312,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1504,0,105
+1791717821458,1504,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1504,0,105
+1791717822963,3807,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,3754,0,0
+1791717821458,5314,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1498,0,106
+1791717821458,1498,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1498,0,106
+1791717822963,3809,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,3754,0,0
+1791717821591,5184,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1367,0,25
+1791717821591,1367,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1367,0,25
+1791717822963,3812,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,3755,0,0
+1791717821593,5182,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1365,0,23
+1791717821593,1365,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1365,0,23
+1791717822962,3813,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,3758,0,0
+1791717821567,5214,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1390,0,24
+1791717821567,1390,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1390,0,24
+1791717822957,3824,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,3765,0,0
+1791717821566,5221,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1390,0,14
+1791717821566,1390,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1390,0,14
+1791717822957,3830,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,3759,0,0
+1791717821602,5219,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1360,0,0
+1791717821602,1360,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1360,0,0
+1791717822962,3859,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,3836,0,0
+1791717822834,6975,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,2449,0,61
+1791717822834,2449,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,2449,0,61
+1791717825283,4526,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,4507,0,0
+1791717826770,5820,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,1792,0,0
+1791717826770,1792,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,1792,0,0
+1791717828562,4028,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3990,0,0
+1791717826774,5822,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,1846,0,0
+1791717826774,1846,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,1846,0,0
+1791717828620,3976,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3933,0,0
+1791717826781,5816,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,1846,0,0
+1791717826781,1846,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,1846,0,0
+1791717828628,3969,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3924,0,0
+1791717826772,5827,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,1892,0,0
+1791717826772,1892,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,1892,0,0
+1791717828664,3935,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,3889,0,0
+1791717826774,5825,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1895,0,0
+1791717826774,1895,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1895,0,0
+1791717828669,3930,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3886,0,0
+1791717826787,6097,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1965,0,0
+1791717826787,1965,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1965,0,0
+1791717828752,4132,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,4107,0,0
+1791717829810,5068,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,1920,0,0
+1791717829810,1920,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,1920,0,0
+1791717831730,3148,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,3125,0,0
+1791717825330,9904,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1445,0,0
+1791717825330,1445,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1445,0,0
+1791717826776,8458,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,8135,0,18
+1791717826156,9090,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1320,0,0
+1791717826156,1320,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1320,0,0
+1791717827476,7770,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,7741,0,13
+1791717826820,9034,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1703,0,0
+1791717826820,1703,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1703,0,0
+1791717828523,7331,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,7309,0,13
+1791717835236,2371,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,988,0,5
+1791717835236,988,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,988,0,5
+1791717836224,1383,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,1351,0,0
+1791717835248,2363,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,976,0,3
+1791717835248,976,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,976,0,3
+1791717836224,1387,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,1365,0,0
+1791717835855,1967,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,591,0,5
+1791717835855,591,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,591,0,5
+1791717836446,1376,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,1356,0,0
+1791717832600,7972,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1207,0,0
+1791717832600,1207,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1207,0,0
+1791717833807,6765,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,6735,0,22
+1791717832597,7986,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1279,0,0
+1791717832597,1279,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1279,0,0
+1791717833878,6705,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,6668,0,22
+1791717832597,8178,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1296,0,0
+1791717832597,1296,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1296,0,0
+1791717833894,6881,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6855,0,12
+1791717832591,8224,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1268,0,0
+1791717832591,1268,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1268,0,0
+1791717833861,6954,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,6905,0,20
+1791717832599,8434,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1214,0,0
+1791717832599,1214,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1214,0,0
+1791717833813,7220,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,7173,0,18
+1791717832885,8154,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1193,0,0
+1791717832885,1193,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1193,0,0
+1791717834079,6960,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,6897,0,16
+1791717834879,6563,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,974,0,0
+1791717834879,974,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,974,0,0
+1791717835853,5589,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,5542,0,13
+1791717837611,4069,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,694,0,0
+1791717837611,694,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,694,0,0
+1791717838305,3375,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3334,0,0
+1791717837608,4196,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,700,0,0
+1791717837608,700,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,700,0,0
+1791717838308,3496,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3455,0,0
+1791717837823,4315,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1184,0,0
+1791717837823,1184,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1184,0,0
+1791717839006,3132,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,3100,0,0
+1791717840578,4123,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1151,0,5
+1791717840578,1151,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1151,0,5
+1791717841729,2972,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,2898,0,0
+1791717840815,3917,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1064,0,5
+1791717840815,1064,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1064,0,5
+1791717841880,2852,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,2786,0,0
+1791717840774,3960,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1085,0,5
+1791717840774,1085,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1085,0,5
+1791717841860,2874,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,2809,0,0
+1791717840583,4157,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1146,0,6
+1791717840583,1146,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1146,0,6
+1791717841729,3011,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,2906,0,0
+1791717841038,3703,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1061,0,4
+1791717841038,1061,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1061,0,4
+1791717842099,2642,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,2594,0,0
+1791717841034,3734,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1050,0,4
+1791717841034,1050,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1050,0,4
+1791717842084,2684,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,2630,0,0
+1791717841443,3530,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1020,0,5
+1791717841443,1020,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1020,0,5
+1791717842463,2510,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,2364,0,0
+1791717841804,6154,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1022,0,0
+1791717841804,1022,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1022,0,0
+1791717842828,5130,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,5088,0,17
+1791717841679,6287,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1045,0,0
+1791717841679,1045,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1045,0,0
+1791717842724,5242,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,5192,0,18
+1791717844703,3950,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,765,0,0
+1791717844703,765,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,765,0,0
+1791717845469,3184,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3161,0,0
+1791717842139,6520,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,910,0,0
+1791717842139,910,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,910,0,0
+1791717843050,5609,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,5393,0,16
+1791717844743,4237,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,812,0,0
+1791717844743,812,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,812,0,0
+1791717845555,3425,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,3386,0,0
+1791717844736,4251,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,818,0,0
+1791717844736,818,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,818,0,0
+1791717845554,3433,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3386,0,0
+1791717844741,4250,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,811,0,0
+1791717844741,811,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,811,0,0
+1791717845553,3438,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3387,0,0
+1791717844734,4259,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,838,0,0
+1791717844734,838,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,838,0,0
+1791717845572,3421,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3375,0,0
+1791717844975,4032,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,805,0,0
+1791717844975,805,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,805,0,0
+1791717845781,3226,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,3169,0,0
+1791717844770,4261,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,782,0,0
+1791717844770,782,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,782,0,0
+1791717845552,3479,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,3397,0,0
+1791717847968,4165,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,982,0,4
+1791717847968,982,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,982,0,4
+1791717848950,3183,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,3162,0,0
+1791717847960,4174,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,990,0,5
+1791717847960,990,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,990,0,5
+1791717848949,3185,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,3163,0,0
+1791717848661,3876,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,844,0,0
+1791717848661,844,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,844,0,0
+1791717849504,3033,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,3017,0,0
+1791717852135,2761,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,900,0,0
+1791717852135,900,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,900,0,0
+1791717853035,1861,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,1846,0,0
+1791717852135,3361,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1104,0,0
+1791717852135,1104,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1104,0,0
+1791717853240,2256,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,2050,0,0
+1791717848979,7949,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1086,0,0
+1791717848979,1086,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1086,0,0
+1791717850066,6862,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,6763,0,43
+1791717848653,8277,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,919,0,0
+1791717848653,919,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,919,0,0
+1791717849572,7358,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,7254,0,26
+1791717848986,7950,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1083,0,0
+1791717848986,1083,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1083,0,0
+1791717850069,6867,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6759,0,28
+1791717849030,8168,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1052,0,0
+1791717849030,1052,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1052,0,0
+1791717850083,7115,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,7086,0,56
+1791717848992,8256,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1095,0,0
+1791717848992,1095,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1095,0,0
+1791717850087,7161,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,7080,0,51
+1791717849009,8991,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1097,0,0
+1791717849009,1097,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1097,0,0
+1791717850106,7894,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,7193,0,34
+1791717848990,9030,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1126,0,0
+1791717848990,1126,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1126,0,0
+1791717850116,7904,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,7300,0,498
+1791717852538,5524,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1008,0,0
+1791717852538,1008,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1008,0,0
+1791717853546,4516,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,4477,0,0
+1791717856936,6874,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1338,0,6
+1791717856936,1338,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1338,0,6
+1791717858274,5536,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,5513,0,0
+1791717856928,7183,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1364,0,13
+1791717856928,1364,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1364,0,13
+1791717858292,5819,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,5800,0,0
+1791717856930,7183,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1538,0,12
+1791717856930,1538,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1538,0,12
+1791717858469,5644,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,5623,0,0
+1791717854896,9628,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1619,0,0
+1791717854896,1619,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1619,0,0
+1791717856515,8009,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,7988,0,15
+1791717855496,10114,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1437,0,0
+1791717855496,1437,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1437,0,0
+1791717856934,8676,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,8627,0,17
+1791717857198,11832,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,3339,0,5
+1791717857198,3339,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,3339,0,5
+1791717860539,8491,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,8380,0,0
+1791717858000,11239,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,2671,0,8
+1791717858000,2671,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,2671,0,8
+1791717860674,8565,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,8539,0,0
+1791717858020,11224,HistoryPage,200,OK,Thread Group 1-7,text,true,,106847,245,10,10,http://greenitco.com/history,3216,0,5
+1791717858020,3216,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,3216,0,5
+1791717861239,8005,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106608,122,10,10,http://greenitco.com/history,7980,0,0
+1791717857248,11996,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,3419,0,6
+1791717857248,3419,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,3419,0,6
+1791717860670,8574,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,8545,0,0
+1791717858063,14884,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,3384,0,0
+1791717858063,3384,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,3384,0,0
+1791717861449,11498,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,11464,0,187
+1791717863813,11759,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,3994,0,0
+1791717863813,3994,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,3994,0,0
+1791717867806,7766,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,7749,0,0
+1791717864113,11594,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,4805,0,0
+1791717864113,4805,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,4805,0,0
+1791717868918,6789,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,6760,0,0
+1791717865612,11016,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,4935,0,5
+1791717865612,4935,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,4935,0,5
+1791717870548,6080,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,6049,0,0
+1791717864526,12103,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,5507,0,5
+1791717864526,5507,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,5507,0,5
+1791717870033,6596,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,6555,0,0
+1791717864115,12979,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,5407,0,0
+1791717864115,5407,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,5407,0,0
+1791717869522,7572,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,7509,0,0
+1791717869030,8175,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,3914,0,0
+1791717869030,3914,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,3914,0,0
+1791717872944,4261,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,4241,0,0
+1791717869239,8908,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,4244,0,0
+1791717869239,4244,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,4244,0,0
+1791717873483,4664,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,4626,0,0
+1791717869245,9050,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,5189,0,0
+1791717869245,5189,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,5189,0,0
+1791717874435,3860,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3800,0,0
+1791717869244,9322,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,5190,0,0
+1791717869244,5190,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,5190,0,0
+1791717874435,4131,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,4081,0,0
+1791717872947,5648,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,2010,0,6
+1791717872947,2010,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,2010,0,6
+1791717874957,3638,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,3609,0,0
+1791717876637,4781,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1281,0,0
+1791717876637,1281,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1281,0,0
+1791717877919,3499,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3484,0,0
+1791717876632,4988,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1289,0,0
+1791717876632,1289,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1289,0,0
+1791717877922,3698,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3683,0,0
+1791717878596,4666,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1880,0,0
+1791717878596,1880,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1880,0,0
+1791717880482,2780,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,2763,0,0
+1791717875573,8500,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1217,0,0
+1791717875573,1217,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1217,0,0
+1791717876800,7273,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,7159,0,229
+1791717875708,9909,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1967,0,0
+1791717875708,1967,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1967,0,0
+1791717877677,7940,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,7618,0,54
+1791717877205,8843,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1331,0,0
+1791717877205,1331,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1331,0,0
+1791717878536,7512,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,7471,0,53
+1791717877095,8954,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1356,0,0
+1791717877095,1356,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1356,0,0
+1791717878452,7597,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,7554,0,66
+1791717878295,8160,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1288,0,0
+1791717878295,1288,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1288,0,0
+1791717879586,6869,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,6833,0,29
+1791717878148,8315,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1325,0,0
+1791717878148,1325,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1325,0,0
+1791717879474,6989,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,6944,0,24
+1791717878567,8288,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1068,0,0
+1791717878567,1068,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1068,0,0
+1791717879637,7218,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,7192,0,30
+1791717881420,7984,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,696,0,0
+1791717881420,696,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,696,0,0
+1791717882116,7288,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,5578,0,31
+1791717881622,7884,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,910,0,0
+1791717881622,910,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,910,0,0
+1791717882532,6974,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,6138,0,26
+1791717883262,8368,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1724,0,0
+1791717883262,1724,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1724,0,0
+1791717884985,6645,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,6602,0,20
+1791717884074,7976,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,2139,0,6
+1791717884074,2139,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,2139,0,6
+1791717886213,5837,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,5792,0,0
+1791717886049,7561,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,3774,0,4
+1791717886049,3774,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,3774,0,4
+1791717889825,3785,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,3766,0,0
+1791717885624,7990,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,4178,0,151
+1791717885624,4178,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,4178,0,151
+1791717889803,3811,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,3788,0,0
+1791717886854,7682,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,4092,0,7
+1791717886854,4092,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,4092,0,7
+1791717890948,3588,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,3563,0,0
+1791717886455,8085,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,4489,0,8
+1791717886455,4489,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,4489,0,8
+1791717890946,3594,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,3565,0,0
+1791717886049,8492,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,4369,0,6
+1791717886049,4369,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,4369,0,6
+1791717890420,4121,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,4094,0,0
+1791717886462,8373,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,4483,0,7
+1791717886462,4483,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,4483,0,7
+1791717890946,3889,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,3869,0,0
+1791717889404,5512,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,1923,0,158
+1791717889404,1923,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,1923,0,158
+1791717891327,3589,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,3538,0,0
+1791717889553,6597,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,1795,0,9
+1791717889553,1795,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,1795,0,9
+1791717891348,4802,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,4762,0,0
+1791717891632,6137,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,3184,0,7
+1791717891632,3184,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,3184,0,7
+1791717894815,2954,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,2940,0,0
+1791717892051,6408,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,2765,0,0
+1791717892051,2765,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,2765,0,0
+1791717894816,3643,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3592,0,0
+1791717893615,5333,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1933,0,0
+1791717893615,1933,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1933,0,0
+1791717895547,3401,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,3383,0,0
+1791717893611,5412,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,1787,0,0
+1791717893611,1787,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,1787,0,0
+1791717895397,3626,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,3587,0,0
+1791717894536,4488,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,1013,0,0
+1791717894536,1013,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,1013,0,0
+1791717895549,3475,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3424,0,0
+1791717894540,4691,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,1019,0,0
+1791717894540,1019,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,1019,0,0
+1791717895559,3672,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3645,0,0
+1791717894834,4413,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,1194,0,0
+1791717894834,1194,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,1194,0,0
+1791717896028,3219,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,3189,0,0
+1791717894541,4710,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1305,0,0
+1791717894541,1305,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1305,0,0
+1791717895846,3405,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3373,0,0
+1791717894916,5281,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1589,0,0
+1791717894916,1589,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1589,0,0
+1791717896505,3692,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3651,0,0
+1791717896150,4911,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1255,0,0
+1791717896150,1255,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1255,0,0
+1791717897405,3656,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3630,0,0
+1791717897770,5469,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1682,0,0
+1791717897770,1682,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1682,0,0
+1791717899452,3787,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,3768,0,0
+1791717898460,8029,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1560,0,0
+1791717898460,1560,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1560,0,0
+1791717900020,6469,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6263,0,110
+1791717899023,7508,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,991,0,0
+1791717899023,991,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,991,0,0
+1791717900018,6513,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,6472,0,85
+1791717898948,7602,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1071,0,0
+1791717898948,1071,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1071,0,0
+1791717900019,6531,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,6484,0,144
+1791717899025,7839,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1341,0,0
+1791717899247,7617,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1152,0,0
+1791717899025,1341,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1341,0,0
+1791717899247,1152,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1152,0,0
+1791717900366,6498,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,6428,0,52
+1791717900400,6464,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,6412,0,219
+1791717899232,7632,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1166,0,0
+1791717899232,1166,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1166,0,0
+1791717900398,6466,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,6414,0,51
+1791717899251,7991,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1339,0,0
+1791717899251,1339,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1339,0,0
+1791717900590,6652,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,6619,0,36
+1791717900201,7812,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1299,0,0
+1791717900201,1299,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1299,0,0
+1791717901500,6513,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,6482,0,18
+1791717901061,7037,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1434,0,0
+1791717901061,1434,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1434,0,0
+1791717902495,5603,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,5551,0,42
+1791717903240,5487,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,380,0,0
+1791717903240,380,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,380,0,0
+1791717903621,5106,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,5059,0,17
+1791717906490,4874,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1296,0,13
+1791717906490,1296,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1296,0,13
+1791717907786,3578,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,3551,0,0
+1791717906532,4857,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1257,0,18
+1791717906532,1257,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1257,0,18
+1791717907789,3600,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,3573,0,0
+1791717906551,4900,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1235,0,38
+1791717906551,1235,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1235,0,38
+1791717907786,3665,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,3627,0,0
+1791717906864,4993,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1250,0,5
+1791717906864,1250,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1250,0,5
+1791717908114,3743,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,3620,0,0
+1791717906864,5048,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1251,0,5
+1791717906864,1251,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1251,0,5
+1791717908115,3797,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,3738,0,0
+1791717906864,5051,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1271,0,5
+1791717906864,1271,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1271,0,5
+1791717908135,3780,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,3722,0,0
+1791717907243,4674,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1236,0,6
+1791717907243,1236,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1236,0,6
+1791717908479,3438,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,3378,0,0
+1791717908727,4565,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,1268,0,5
+1791717908727,1268,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,1268,0,5
+1791717909995,3297,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,2665,0,0
+1791717908098,5201,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,1333,0,5
+1791717908098,1333,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,1333,0,5
+1791717909431,3868,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,3112,0,0
+1791717908013,5287,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,1285,0,6
+1791717908013,1285,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,1285,0,6
+1791717909299,4001,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,3279,0,0
+1791717911364,5745,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,1132,0,0
+1791717911364,1132,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,1132,0,0
+1791717912496,4613,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,4556,0,0
+1791717911913,5213,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,967,0,0
+1791717911913,967,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,967,0,0
+1791717912881,4245,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,4187,0,0
+1791717911918,5209,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,899,0,0
+1791717911918,899,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,899,0,0
+1791717912817,4310,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,4232,0,0
+1791717911452,5690,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1116,0,0
+1791717911452,1116,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1116,0,0
+1791717912568,4574,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,4533,0,0
+1791717911915,5240,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,965,0,0
+1791717911915,965,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,965,0,0
+1791717912881,4274,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,4243,0,0
+1791717911389,5801,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,1094,0,0
+1791717911389,1094,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,1094,0,0
+1791717912484,4706,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,4664,0,0
+1791717911857,5358,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,921,0,0
+1791717911857,921,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,921,0,0
+1791717912778,4437,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,4376,0,0
+1791717913300,4342,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1120,0,0
+1791717913300,1120,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1120,0,0
+1791717914421,3221,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3177,0,0
+1791717913300,4359,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1118,0,0
+1791717913300,1118,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1118,0,0
+1791717914419,3240,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3179,0,0
+1791717913292,4369,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1123,0,0
+1791717913292,1123,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1123,0,0
+1791717914417,3244,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,3190,0,0
+1791717917157,6870,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1282,0,0
+1791717917157,1282,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1282,0,0
+1791717918439,5588,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,5417,0,21
+1791717917144,6964,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1297,0,0
+1791717917144,1297,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1297,0,0
+1791717918442,5666,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,5448,0,18
+1791717917129,6989,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1318,0,0
+1791717917129,1318,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1318,0,0
+1791717918447,5671,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,5460,0,18
+1791717917128,7003,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,1308,0,0
+1791717917128,1308,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,1308,0,0
+1791717918437,5694,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,5489,0,23
+1791717917192,6981,Homepage,200,OK,Thread Group 1-3,text,true,,215158,230,10,10,https://greenitco.com/,1294,0,0
+1791717917192,1294,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1294,0,0
+1791717918487,5686,Homepage-1,200,OK,Thread Group 1-3,text,true,,214925,115,10,10,https://greenitco.com/,5431,0,16
+1791717917111,7071,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1325,0,0
+1791717917111,1325,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1325,0,0
+1791717918437,5745,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,5493,0,23
+1791717917661,6611,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1182,0,0
+1791717917661,1182,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1182,0,0
+1791717918843,5429,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,5279,0,414
+1791717917217,7060,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1325,0,0
+1791717917217,1325,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1325,0,0
+1791717918543,5734,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,5619,0,712
+1791717917643,6636,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1211,0,0
+1791717917643,1211,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1211,0,0
+1791717918855,5424,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,5307,0,397
+1791717917659,6624,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1184,0,0
+1791717917659,1184,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1184,0,0
+1791717918843,5440,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,5340,0,411
+1791717924027,3474,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1241,0,27
+1791717924027,1241,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1241,0,27
+1791717925268,2233,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,2200,0,0
+1791717924118,3410,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1293,0,20
+1791717924118,1293,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1293,0,20
+1791717925411,2117,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,2093,0,0
+1791717924107,3906,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1320,0,15
+1791717924107,1320,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1320,0,15
+1791717925427,2586,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,2548,0,0
+1791717924173,3977,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1461,0,14
+1791717924173,1461,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1461,0,14
+1791717925634,2516,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,2482,0,0
+1791717924276,3877,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1388,0,7
+1791717924276,1388,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1388,0,7
+1791717925664,2489,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,2466,0,0
+1791717924182,3975,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1481,0,30
+1791717924182,1481,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1481,0,30
+1791717925664,2493,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,2457,0,0
+1791717924279,3883,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,1397,0,23
+1791717924279,1397,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,1397,0,23
+1791717925676,2486,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,2465,0,0
+1791717924272,3922,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,1365,0,10
+1791717924272,1365,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,1365,0,10
+1791717925637,2557,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,2526,0,0
+1791717924131,4071,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1546,0,28
+1791717924131,1546,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1546,0,28
+1791717925677,2525,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,2508,0,0
+1791717924283,4192,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,1933,0,52
+1791717924283,1933,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,1933,0,52
+1791717926216,2259,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,2221,0,0
+1791717928157,4489,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,898,0,0
+1791717928157,898,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,898,0,0
+1791717929056,3590,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3560,0,0
+1791717927503,5199,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,1456,0,0
+1791717927503,1456,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,1456,0,0
+1791717928959,3743,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3685,0,0
+1791717927528,5192,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1530,0,0
+1791717928014,4706,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1018,0,0
+1791717927528,1530,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1530,0,0
+1791717928014,1018,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1018,0,0
+1791717929059,3661,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3623,0,0
+1791717929034,3686,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,3649,0,0
+1791717928163,4700,ProductsPage,200,OK,Thread Group 1-1,text,true,,116722,247,10,10,http://greenitco.com/products,871,0,0
+1791717928163,871,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,871,0,0
+1791717929035,3828,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116482,123,10,10,http://greenitco.com/products,3807,0,0
+1791717928154,4959,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,907,0,0
+1791717928154,907,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,907,0,0
+1791717929062,4051,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3987,0,0
+1791717928150,5085,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,917,0,0
+1791717928150,917,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,917,0,0
+1791717929068,4167,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,4151,0,0
+1791717928194,6782,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1061,0,0
+1791717928194,1061,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1061,0,0
+1791717929256,5720,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,5682,0,0
+1791717928203,8093,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,1788,0,0
+1791717928203,1788,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,1788,0,0
+1791717929992,6304,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,6282,0,0
+1791717928476,7872,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1797,0,0
+1791717928476,1797,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1797,0,0
+1791717930274,6074,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,6057,0,0
+1791717932863,7474,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1327,0,0
+1791717932863,1327,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1327,0,0
+1791717934190,6147,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,6070,0,13
+1791717933114,7269,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1227,0,0
+1791717933114,1227,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1227,0,0
+1791717934340,6043,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,5970,0,25
+1791717932648,7737,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1304,0,0
+1791717932648,1304,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1304,0,0
+1791717933952,6433,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,6365,0,17
+1791717932720,7680,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1273,0,0
+1791717932720,1273,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1273,0,0
+1791717933993,6407,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,6351,0,14
+1791717932703,7715,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1270,0,0
+1791717932703,1270,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1270,0,0
+1791717933973,6445,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,6371,0,18
+1791717932720,7703,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1286,0,0
+1791717932720,1286,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1286,0,0
+1791717934006,6417,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,6385,0,14
+1791717933235,7687,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1946,0,0
+1791717933235,1946,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1946,0,0
+1791717935180,5742,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,5704,0,18
+1791717934976,6489,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1042,0,0
+1791717934976,1042,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1042,0,0
+1791717936019,5446,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,5415,0,18
+1791717936347,5539,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,459,0,0
+1791717936347,459,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,459,0,0
+1791717936806,5080,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,5054,0,21
+1791717936296,5632,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,463,0,0
+1791717936296,463,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,463,0,0
+1791717936760,5168,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,5135,0,13
+1791717940338,4479,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,1330,0,14
+1791717940338,1330,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,1330,0,14
+1791717941668,3149,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,3097,0,0
+1791717940400,4447,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,1234,0,7
+1791717940400,1234,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,1234,0,7
+1791717941634,3213,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,3174,0,0
+1791717940418,4469,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1237,0,8
+1791717940418,1237,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1237,0,8
+1791717941656,3231,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,3164,0,0
+1791717940385,4504,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,1287,0,10
+1791717940385,1287,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,1287,0,10
+1791717941672,3217,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,3146,0,0
+1791717940424,4470,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,1223,0,4
+1791717940424,1223,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,1223,0,4
+1791717941647,3247,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,3170,0,0
+1791717940384,4517,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,1270,0,11
+1791717940384,1270,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,1270,0,11
+1791717941654,3247,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,3192,0,0
+1791717940924,4063,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1336,0,5
+1791717940924,1336,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1336,0,5
+1791717942260,2727,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,2678,0,0
+1791717941466,3847,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,1193,0,8
+1791717941466,1193,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,1193,0,8
+1791717942659,2654,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,2618,0,0
+1791717941888,3590,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,1033,0,7
+1791717941888,1033,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,1033,0,7
+1791717942921,2557,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,2499,0,0
+1791717941929,3597,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1003,0,4
+1791717941929,1003,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1003,0,4
+1791717942932,2594,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,2517,0,0
+1791717944986,4455,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,10,10,http://greenitco.com/products,1028,0,0
+1791717944986,1028,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,10,10,http://greenitco.com/products/,1028,0,0
+1791717946014,3427,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,10,10,http://greenitco.com/products,3380,0,0
+1791717944902,4581,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,1135,0,0
+1791717944902,1135,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,1135,0,0
+1791717946037,3446,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3409,0,0
+1791717944816,4681,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1267,0,0
+1791717944816,1267,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1267,0,0
+1791717946083,3414,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3362,0,0
+1791717944886,4626,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,10,10,http://greenitco.com/products,1169,0,0
+1791717944886,1169,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,10,10,http://greenitco.com/products/,1169,0,0
+1791717946055,3457,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,10,10,http://greenitco.com/products,3413,0,0
+1791717944893,4620,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1176,0,0
+1791717944893,1176,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1176,0,0
+1791717946069,3444,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3417,0,0
+1791717944888,4633,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,1148,0,0
+1791717944888,1148,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,1148,0,0
+1791717946037,3484,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3424,0,0
+1791717944846,4720,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,10,10,http://greenitco.com/products,1114,0,0
+1791717944846,1114,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,10,10,http://greenitco.com/products/,1114,0,0
+1791717945960,3606,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,10,10,http://greenitco.com/products,3535,0,0
+1791717945312,4403,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,10,10,http://greenitco.com/products,1011,0,0
+1791717945312,1011,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,10,10,http://greenitco.com/products/,1011,0,0
+1791717946323,3392,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,10,10,http://greenitco.com/products,3370,0,0
+1791717945478,4238,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,10,10,http://greenitco.com/products,1188,0,0
+1791717945478,1188,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,10,10,http://greenitco.com/products/,1188,0,0
+1791717946667,3049,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,10,10,http://greenitco.com/products,3026,0,0
+1791717945526,4240,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,10,10,http://greenitco.com/products,1267,0,0
+1791717945526,1267,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,10,10,http://greenitco.com/products/,1267,0,0
+1791717946794,2972,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,10,10,http://greenitco.com/products,2933,0,0
+1791717949483,6739,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,10,10,https://greenitco.com/,1235,0,0
+1791717949483,1235,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,10,10,http://greenitco.com/,1235,0,0
+1791717950718,5504,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,10,10,https://greenitco.com/,5439,0,16
+1791717949513,8174,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,10,10,https://greenitco.com/,1211,0,0
+1791717949513,1211,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,10,10,http://greenitco.com/,1211,0,0
+1791717950724,6963,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,10,10,https://greenitco.com/,5508,0,13
+1791717949498,8212,Homepage,200,OK,Thread Group 1-1,text,true,,215165,230,10,10,https://greenitco.com/,1219,0,0
+1791717949498,1219,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,233,115,10,10,http://greenitco.com/,1219,0,0
+1791717950717,6993,Homepage-1,200,OK,Thread Group 1-1,text,true,,214932,115,10,10,https://greenitco.com/,5620,0,15
+1791717949767,7947,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,10,10,https://greenitco.com/,2039,0,0
+1791717949767,2039,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,10,10,http://greenitco.com/,2039,0,0
+1791717951806,5908,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,10,10,https://greenitco.com/,4736,0,14
+1791717949521,8200,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,10,10,https://greenitco.com/,1285,0,0
+1791717949521,1285,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,10,10,http://greenitco.com/,1285,0,0
+1791717950806,6915,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,10,10,https://greenitco.com/,5599,0,26
+1791717949717,8021,Homepage,200,OK,Thread Group 1-4,text,true,,215165,230,10,10,https://greenitco.com/,1168,0,0
+1791717949717,1168,Homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,233,115,10,10,http://greenitco.com/,1168,0,0
+1791717950885,6853,Homepage-1,200,OK,Thread Group 1-4,text,true,,214932,115,10,10,https://greenitco.com/,5441,0,19
+1791717949442,8306,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,10,10,https://greenitco.com/,1356,0,0
+1791717949442,1356,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,10,10,http://greenitco.com/,1356,0,0
+1791717950798,6950,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,10,10,https://greenitco.com/,5597,0,28
+1791717949512,9433,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,10,10,https://greenitco.com/,1205,0,0
+1791717949512,1205,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,10,10,http://greenitco.com/,1205,0,0
+1791717950717,8228,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,10,10,https://greenitco.com/,5521,0,16
+1791717956223,2760,HistoryPage,200,OK,Thread Group 1-8,text,true,,106853,245,10,10,http://greenitco.com/history,460,0,7
+1791717956223,460,HistoryPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,239,123,10,10,http://greenitco.com/history/,460,0,7
+1791717956683,2300,HistoryPage-1,200,OK,Thread Group 1-8,text,true,,106614,122,10,10,http://greenitco.com/history,2281,0,0
+1791717949715,9866,Homepage,200,OK,Thread Group 1-2,text,true,,215165,230,10,10,https://greenitco.com/,1182,0,0
+1791717949715,1182,Homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,233,115,10,10,http://greenitco.com/,1182,0,0
+1791717950897,8684,Homepage-1,200,OK,Thread Group 1-2,text,true,,214932,115,10,10,https://greenitco.com/,5675,0,12
+1791717949567,10119,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,10,10,https://greenitco.com/,1231,0,0
+1791717949567,1231,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,10,10,http://greenitco.com/,1231,0,0
+1791717950798,8888,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,10,10,https://greenitco.com/,5453,0,28
+1791717957689,3916,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,10,10,http://greenitco.com/history,855,0,7
+1791717957689,855,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,10,10,http://greenitco.com/history/,855,0,7
+1791717958544,3061,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,10,10,http://greenitco.com/history,3018,0,0
+1791717957722,3886,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,10,10,http://greenitco.com/history,850,0,4
+1791717957722,850,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,10,10,http://greenitco.com/history/,850,0,4
+1791717958572,3036,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,10,10,http://greenitco.com/history,2997,0,0
+1791717957711,4103,HistoryPage,200,OK,Thread Group 1-1,text,true,,106853,245,10,10,http://greenitco.com/history,875,0,5
+1791717957711,875,HistoryPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,239,123,10,10,http://greenitco.com/history/,875,0,5
+1791717958586,3228,HistoryPage-1,200,OK,Thread Group 1-1,text,true,,106614,122,10,10,http://greenitco.com/history,3176,0,0
+1791717957740,4291,HistoryPage,200,OK,Thread Group 1-4,text,true,,106853,245,10,10,http://greenitco.com/history,1191,0,5
+1791717957740,1191,HistoryPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,239,123,10,10,http://greenitco.com/history/,1191,0,5
+1791717958931,3100,HistoryPage-1,200,OK,Thread Group 1-4,text,true,,106614,122,10,10,http://greenitco.com/history,3063,0,0
+1791717957716,4339,HistoryPage,200,OK,Thread Group 1-9,text,true,,106853,245,10,10,http://greenitco.com/history,1217,0,7
+1791717957716,1217,HistoryPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,239,123,10,10,http://greenitco.com/history/,1217,0,7
+1791717958933,3122,HistoryPage-1,200,OK,Thread Group 1-9,text,true,,106614,122,10,10,http://greenitco.com/history,3096,0,0
+1791717957749,4325,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,10,10,http://greenitco.com/history,1187,0,20
+1791717957749,1187,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,10,10,http://greenitco.com/history/,1187,0,20
+1791717958936,3138,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,10,10,http://greenitco.com/history,3105,0,0
+1791717958947,3742,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,10,10,http://greenitco.com/history,1009,0,4
+1791717958947,1009,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,10,10,http://greenitco.com/history/,1009,0,4
+1791717959955,2734,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,10,10,http://greenitco.com/history,2717,0,0
+1791717959581,3781,HistoryPage,200,OK,Thread Group 1-2,text,true,,106853,245,10,10,http://greenitco.com/history,885,0,5
+1791717959581,885,HistoryPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,239,123,10,10,http://greenitco.com/history/,885,0,5
+1791717960466,2896,HistoryPage-1,200,OK,Thread Group 1-2,text,true,,106614,122,10,10,http://greenitco.com/history,2858,0,0
+1791717958984,4412,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,10,10,http://greenitco.com/products,1057,0,0
+1791717958984,1057,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,10,10,http://greenitco.com/products/,1057,0,0
+1791717960040,3356,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,10,10,http://greenitco.com/products,3301,0,0
+1791717959686,3777,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,10,10,http://greenitco.com/history,899,0,6
+1791717959686,899,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,10,10,http://greenitco.com/history/,899,0,6
+1791717960585,2878,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,10,10,http://greenitco.com/history,2855,0,0
+1791717961605,4905,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,10,10,http://greenitco.com/products,1153,0,0
+1791717961605,1153,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,10,10,http://greenitco.com/products/,1153,0,0
+1791717962758,3752,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,10,10,http://greenitco.com/products,3703,0,0
+1791717961607,4905,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,10,10,http://greenitco.com/products,1123,0,0
+1791717961607,1123,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,10,10,http://greenitco.com/products/,1123,0,0
+1791717962730,3782,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,10,10,http://greenitco.com/products,3756,0,0
+1791717961814,4839,ProductsPage,200,OK,Thread Group 1-1,text,true,,116736,247,10,10,http://greenitco.com/products,1181,0,0
+1791717961814,1181,ProductsPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,240,124,10,10,http://greenitco.com/products/,1181,0,0
+1791717962995,3658,ProductsPage-1,200,OK,Thread Group 1-1,text,true,,116496,123,10,10,http://greenitco.com/products,3629,0,0
+1791717962030,5159,ProductsPage,200,OK,Thread Group 1-4,text,true,,116736,247,9,9,http://greenitco.com/products,1337,0,0
+1791717962030,1337,ProductsPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,240,124,9,9,http://greenitco.com/products/,1337,0,0
+1791717963368,3821,ProductsPage-1,200,OK,Thread Group 1-4,text,true,,116496,123,9,9,http://greenitco.com/products,3790,0,0
+1791717962055,5158,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,8,8,http://greenitco.com/products,1321,0,0
+1791717962055,1321,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,8,8,http://greenitco.com/products/,1321,0,0
+1791717963377,3836,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,8,8,http://greenitco.com/products,3810,0,0
+1791717962689,4531,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,8,8,http://greenitco.com/products,1136,0,0
+1791717962689,1136,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,8,8,http://greenitco.com/products/,1136,0,0
+1791717963825,3395,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,8,8,http://greenitco.com/products,3364,0,0
+1791717962073,5177,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,8,8,http://greenitco.com/products,1333,0,0
+1791717962073,1333,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,8,8,http://greenitco.com/products/,1333,0,0
+1791717963406,3844,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,8,8,http://greenitco.com/products,3806,0,0
+1791717963362,4369,ProductsPage,200,OK,Thread Group 1-2,text,true,,116736,247,8,8,http://greenitco.com/products,1269,0,0
+1791717963362,1269,ProductsPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,240,124,8,8,http://greenitco.com/products/,1269,0,0
+1791717964631,3100,ProductsPage-1,200,OK,Thread Group 1-2,text,true,,116496,123,8,8,http://greenitco.com/products,3067,0,0
+1791717963463,4270,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,7,7,http://greenitco.com/products,1225,0,0
+1791717963463,1225,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,7,7,http://greenitco.com/products/,1225,0,0
+1791717964688,3045,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,7,7,http://greenitco.com/products,2996,0,0
+1791717963396,6083,Homepage,200,OK,Thread Group 1-8,text,true,,215165,230,7,7,https://greenitco.com/,1274,0,0
+1791717963396,1274,Homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,233,115,7,7,http://greenitco.com/,1274,0,0
+1791717964671,4808,Homepage-1,200,OK,Thread Group 1-8,text,true,,214932,115,7,7,https://greenitco.com/,4761,0,12
+1791717969480,1,HistoryPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: greenitco.com:80 failed to respond,Thread Group 1-8,text,false,,2094,0,7,7,http://greenitco.com/history/,0,0,0
+1791717969483,2807,ProductsPage,200,OK,Thread Group 1-8,text,true,,116736,247,7,7,http://greenitco.com/products,723,0,10
+1791717969483,723,ProductsPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,240,124,7,7,http://greenitco.com/products/,723,0,10
+1791717970206,2084,ProductsPage-1,200,OK,Thread Group 1-8,text,true,,116496,123,7,7,http://greenitco.com/products,2039,0,0
+1791717966511,6356,Homepage,200,OK,Thread Group 1-6,text,true,,215165,230,6,6,https://greenitco.com/,1268,0,0
+1791717966511,1268,Homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,233,115,6,6,http://greenitco.com/,1268,0,0
+1791717967779,5088,Homepage-1,200,OK,Thread Group 1-6,text,true,,214932,115,6,6,https://greenitco.com/,4991,0,18
+1791717966513,6440,Homepage,200,OK,Thread Group 1-5,text,true,,215165,230,6,6,https://greenitco.com/,1265,0,0
+1791717966513,1265,Homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,233,115,6,6,http://greenitco.com/,1265,0,0
+1791717967778,5175,Homepage-1,200,OK,Thread Group 1-5,text,true,,214932,115,6,6,https://greenitco.com/,5144,0,19
+1791717967251,6359,Homepage,200,OK,Thread Group 1-3,text,true,,215165,230,6,6,https://greenitco.com/,1009,0,0
+1791717967251,1009,Homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,233,115,6,6,http://greenitco.com/,1009,0,0
+1791717968260,5350,Homepage-1,200,OK,Thread Group 1-3,text,true,,214932,115,6,6,https://greenitco.com/,5064,0,12
+1791717967733,5917,Homepage,200,OK,Thread Group 1-10,text,true,,215165,230,6,6,https://greenitco.com/,907,0,0
+1791717967733,907,Homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,233,115,6,6,http://greenitco.com/,907,0,0
+1791717968641,5009,Homepage-1,200,OK,Thread Group 1-10,text,true,,214932,115,6,6,https://greenitco.com/,4903,0,12
+1791717967221,6431,Homepage,200,OK,Thread Group 1-7,text,true,,215165,230,6,6,https://greenitco.com/,1036,0,0
+1791717967221,1036,Homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,233,115,6,6,http://greenitco.com/,1036,0,0
+1791717968257,5395,Homepage-1,200,OK,Thread Group 1-7,text,true,,214932,115,6,6,https://greenitco.com/,5266,0,15
+1791717967214,6447,Homepage,200,OK,Thread Group 1-9,text,true,,215165,230,6,6,https://greenitco.com/,1047,0,0
+1791717967214,1047,Homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,233,115,6,6,http://greenitco.com/,1047,0,0
+1791717968261,5400,Homepage-1,200,OK,Thread Group 1-9,text,true,,214932,115,6,6,https://greenitco.com/,5267,0,16
+1791717973662,10,HistoryPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: greenitco.com:80 failed to respond,Thread Group 1-9,text,false,,2094,0,6,6,http://greenitco.com/history/,0,0,0
+1791717972868,2137,HistoryPage,200,OK,Thread Group 1-6,text,true,,106853,245,6,6,http://greenitco.com/history,714,0,4
+1791717972868,714,HistoryPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,239,123,6,6,http://greenitco.com/history/,714,0,4
+1791717973582,1423,HistoryPage-1,200,OK,Thread Group 1-6,text,true,,106614,122,6,6,http://greenitco.com/history,1401,0,0
+1791717972953,2125,HistoryPage,200,OK,Thread Group 1-5,text,true,,106853,245,6,6,http://greenitco.com/history,657,0,5
+1791717972953,657,HistoryPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,239,123,6,6,http://greenitco.com/history/,657,0,5
+1791717973610,1468,HistoryPage-1,200,OK,Thread Group 1-5,text,true,,106614,122,6,6,http://greenitco.com/history,1444,0,0
+1791717973650,2257,HistoryPage,200,OK,Thread Group 1-10,text,true,,106853,245,6,6,http://greenitco.com/history,627,0,0
+1791717973650,627,HistoryPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,239,123,6,6,http://greenitco.com/history/,627,0,0
+1791717973652,2255,HistoryPage,200,OK,Thread Group 1-7,text,true,,106853,245,6,6,http://greenitco.com/history,636,0,0
+1791717974277,1630,HistoryPage-1,200,OK,Thread Group 1-10,text,true,,106614,122,6,6,http://greenitco.com/history,1508,0,0
+1791717973652,636,HistoryPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,239,123,6,6,http://greenitco.com/history/,636,0,0
+1791717974288,1619,HistoryPage-1,200,OK,Thread Group 1-7,text,true,,106614,122,6,6,http://greenitco.com/history,1498,0,0
+1791717973673,2253,ProductsPage,200,OK,Thread Group 1-9,text,true,,116736,247,6,6,http://greenitco.com/products,635,0,20
+1791717973673,635,ProductsPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,240,124,6,6,http://greenitco.com/products/,635,0,20
+1791717974308,1618,ProductsPage-1,200,OK,Thread Group 1-9,text,true,,116496,123,6,6,http://greenitco.com/products,1481,0,0
+1791717973611,2316,HistoryPage,200,OK,Thread Group 1-3,text,true,,106853,245,6,6,http://greenitco.com/history,637,0,0
+1791717973611,637,HistoryPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,239,123,6,6,http://greenitco.com/history/,637,0,0
+1791717974248,1679,HistoryPage-1,200,OK,Thread Group 1-3,text,true,,106614,122,6,6,http://greenitco.com/history,1538,0,0
+1791717975006,1662,ProductsPage,200,OK,Thread Group 1-6,text,true,,116736,247,5,5,http://greenitco.com/products,555,0,0
+1791717975006,555,ProductsPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,240,124,5,5,http://greenitco.com/products/,555,0,0
+1791717975561,1107,ProductsPage-1,200,OK,Thread Group 1-6,text,true,,116496,123,5,5,http://greenitco.com/products,1064,0,0
+1791717975078,1599,ProductsPage,200,OK,Thread Group 1-5,text,true,,116736,247,4,4,http://greenitco.com/products,503,0,0
+1791717975078,503,ProductsPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,240,124,4,4,http://greenitco.com/products/,503,0,0
+1791717975581,1096,ProductsPage-1,200,OK,Thread Group 1-5,text,true,,116496,123,4,4,http://greenitco.com/products,1047,0,0
+1791717975908,1347,ProductsPage,200,OK,Thread Group 1-7,text,true,,116736,247,3,3,http://greenitco.com/products,461,0,0
+1791717975908,461,ProductsPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,240,124,3,3,http://greenitco.com/products/,461,0,0
+1791717976369,886,ProductsPage-1,200,OK,Thread Group 1-7,text,true,,116496,123,3,3,http://greenitco.com/products,819,0,0
+1791717975908,1355,ProductsPage,200,OK,Thread Group 1-10,text,true,,116736,247,2,2,http://greenitco.com/products,461,0,0
+1791717975908,461,ProductsPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,240,124,2,2,http://greenitco.com/products/,461,0,0
+1791717976369,894,ProductsPage-1,200,OK,Thread Group 1-10,text,true,,116496,123,2,2,http://greenitco.com/products,831,0,0
+1791717975927,1336,ProductsPage,200,OK,Thread Group 1-3,text,true,,116736,247,2,2,http://greenitco.com/products,441,0,0
+1791717975927,441,ProductsPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,240,124,2,2,http://greenitco.com/products/,441,0,0
+1791717976368,895,ProductsPage-1,200,OK,Thread Group 1-3,text,true,,116496,123,2,2,http://greenitco.com/products,825,0,0
